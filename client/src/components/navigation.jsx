@@ -26,7 +26,7 @@ export const Navigation = () => {
       {/* LEFT — LOGO */}
       <div className="flex items-center">
         <div className="font-semibold text-xl text-gray-900">
-          <span className="hidden md:inline">QuizMaker</span>
+          <span className="hidden md:inline">QuizGame</span>
           <span className="md:hidden">
             <img src={logo} alt="App Logo" className="h-9 rounded-full" />
           </span>
